@@ -1,0 +1,10 @@
+{
+  "dispositivos": [
+    {
+      "id": "AQUÍ_EL_ID_DEL_DISPOSITIVO",
+      "nombre": "Usuario de Prueba",
+      "expiracion": "2026-11-30"
+    }
+  ],
+  "claveMaestra": "Milena1428"
+}
